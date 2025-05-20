@@ -8,7 +8,7 @@ NLP project using Flask and Hugging Face Stable Diffusion XL model for speech to
 ![Homepage](homepage.png)
 
 ## 🎙️ Voice Prompt Screen
-![Voice Prompt](voiceprompt.png)
+![Voice Prompt](voice%20prompt.png)
 
 ## 🖼️ Output Example 1
 ![Output 1](output.png)
